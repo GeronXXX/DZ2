@@ -11,7 +11,7 @@ import java.util.Scanner;
 public class test {
     @Test
     void shouldOpen() {
-        String date = "12.02.2027";
+        String date = "12.02.2025";
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd.MM.yyyy");
 
