@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class DZ2 {
+public class test {
     public static void main(String[] args) {
 
         Scanner console = new Scanner(System.in);
